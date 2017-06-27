@@ -1,15 +1,12 @@
-h1 {
-  color: red;
-  text align: center;
-  font-style: oblique;
+ul {
+font-size: 40px;
+font-style: italic;
+font-stretch: expanded;
+
 }
 
-p {
-  font-weight: lighter;
-  font-size: 16px;
-  font-family: cursive;
-  color: blue;
-}
-ul {
-  line-height: inherit;
+ol{
+  font-size: 40px;
+  font-style: italic;
+  font-stretch: expanded;
 }
