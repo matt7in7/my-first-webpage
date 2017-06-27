@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  text align: center;
+  font-style: oblique;
+}
+
+p {
+  font-weight: lighter;
+  font-size: 16px;
+  font-family: cursive;
+  color: blue;
+}
+ul {
+  line-height: inherit;
+}
